@@ -1,0 +1,9 @@
+.home-container {
+    @apply h-screen flex flex-col justify-center items-center;
+    background-color: #f5f5f5;
+    padding: 20px;
+  }
+  
+  .btn {
+    @apply bg-orange-500 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded;
+  }
